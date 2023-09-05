@@ -1,0 +1,29 @@
+{
+  "shopingCartList": [
+    {
+      "productName": "samsung",
+      "price": "45",
+      "id": 1
+    },
+    {
+      "productName": "oneplus",
+      "price": "45",
+      "id": 2
+    },
+    {
+      "productName": "rrr",
+      "price": "4",
+      "id": 3
+    },
+    {
+      "productName": "ww",
+      "price": "33",
+      "id": 4
+    },
+    {
+      "productName": "www3",
+      "price": 333,
+      "id": 5
+    }
+  ]
+}
